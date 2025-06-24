@@ -1,6 +1,6 @@
 # 🤖 Reinforcement Learning Projects
 
-This repository contains three different reinforcement learning projects, each demonstrating different algorithms and applications in artificial intelligence for business optimization.
+This repository contains two different reinforcement learning projects, each demonstrating different algorithms and applications in artificial intelligence for business optimization.
 
 ## 📦 Project 1: Q-Learning for Warehouse Optimization
 
