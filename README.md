@@ -42,6 +42,7 @@ This project uses Deep Q-Learning to optimize server room temperature control, m
 
 Each project can be run independently. Navigate to the respective folder and execute the main Python file:
 
+
 ```bash
 # Project 1: Q-Learning
 python "Q-Learning for Warehouse Optimization/q_learning.py"
